@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ticipecin.github.io/sitemap.html.gz
+Sitemap: https://ticipecin.github.io/app/sitemap.html.gz
+Sitemap: https://ticipecin.github.io/assets/sitemap.html.gz
+Sitemap: https://ticipecin.github.io/css/sitemap.html.gz
+Sitemap: https://ticipecin.github.io/includes/sitemap.html.gz
+Sitemap: https://ticipecin.github.io/item/sitemap.html.gz
+Sitemap: https://ticipecin.github.io/src/sitemap.html.gz
